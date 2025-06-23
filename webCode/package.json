@@ -1,0 +1,12 @@
+{
+  "name": "UniversalLinkTest",
+  "version": "1.0.0",
+  "description": "Testing Universal Link",
+  "main": "index.js",
+  "author": "Bandan Kumar",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
