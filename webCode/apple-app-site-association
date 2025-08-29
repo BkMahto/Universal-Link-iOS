@@ -1,10 +1,8 @@
 {
-  "applinks": {
-      "details": [
-      {
-        "appID": "6GWKQZJU6B.com.jiver.customerapp",
-        "paths": ["/jiverdeliveryiosapp"]
-      }
-    ]
-  }
+    "applinks": {
+        "details": [{
+            "appID": "374B4XJ82F.com.repleeno.customer",
+            "paths": ["/api/merchant/*", "api/merchant/share/*", "api/rchant/share/*"]
+        }]
+    }
 }
